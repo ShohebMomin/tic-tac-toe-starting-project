@@ -1,5 +1,5 @@
 # React Tic-Tac-Toe
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/ShohebMomin/tic-tac-toe-starting-project)
+
 
 This repository contains the source code for a classic Tic-Tac-Toe game built with React and bootstrapped with Vite. The application allows two players to compete, edit their names, and play until a winner is determined or the game ends in a draw.
 
